@@ -1,4 +1,4 @@
-# HW 2 Extra credit powerball simulation
+# powerball simulation
 
 c = 0
 
