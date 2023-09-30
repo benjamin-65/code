@@ -1,5 +1,4 @@
-#Benjamin Garcia
-#STA6326
+
 #Simulation of coin flips 
 
 
